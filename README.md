@@ -5,7 +5,7 @@ Vamos a crear una especie de calculadora que nos ayudará a sumar números dando
 ## Pasos a seguir
 
 ### Paso 1: Configuración del proyecto
-- Comenzaremos instalando las dependencias con `npm i`. Revisaremos si tenemos `react-router-dom` instalado. 
+- Comenzaremos instalando las dependencias con `npm i`. Revisaremos si tenemos `react-router-dom` instalado.  OK!
 
 ### Paso 2: Crear los componentes y el contexto
 - Crear un componente `CalculatorProvider` que utilizará `createContext` para proporcionar un contexto a la aplicación. Aqui definiremos el estado en el contexto para mantener una lista de números seleccionados y el número actualmente seleccionado.
@@ -23,7 +23,3 @@ Cada vez que se pulse un botón aparecerá el número en pantalla. Luego habrá 
 
 Añadir estilos para resaltar el número actual seleccionado en la calculadora y para mostrar la lista de números seleccionados de manera clara en la página de resultado.
 
-
-
-
- 
